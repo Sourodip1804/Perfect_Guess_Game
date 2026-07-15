@@ -16,6 +16,7 @@ The program generates a random number, and the user keeps guessing until they fi
 ## 🔹 Tech Stack
 
 * Python
+* VS code editor
 
 ## 🔹 Learning Outcomes
 
